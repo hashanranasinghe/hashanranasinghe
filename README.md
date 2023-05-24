@@ -23,3 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashanranasinghe&" alt="hashanranasinghe" /></p>
 
+[![An image of @hashan99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hashan99)](https://holopin.io/@hashan99)
